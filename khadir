@@ -1,0 +1,23 @@
+touch
+ls
+vim or vi
+rm
+mkdir
+rmdir
+cat
+clear
+cp
+mv
+cd ..
+cd (directory)
+git clone url
+git add file name
+git commit -m "any commit"
+git push
+git checkout -b "master"
+touch
+vim
+git add file name
+git commit -m "add any commit"
+git remote add origin url
+git push origin master
